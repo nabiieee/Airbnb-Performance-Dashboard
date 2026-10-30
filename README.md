@@ -147,7 +147,7 @@ The new-listings curve is divided into six phases: **Introduction → Growth →
 ## 👤 Author
 
 **Sucharita Samantaray**
-- LinkedIn: linkedin.com/in/sucharitasamantaray/
+- LinkedIn: [Sucharita Samantaray](https://linkedin.com/in/sucharitasamantaray/)
 - GitHub: [Sucharita](https://github.com/nabiieee)
 - Email: sucharita.madan13@gmail.com
 
