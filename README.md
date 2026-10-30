@@ -74,17 +74,17 @@ The report is split into three pages:
 
 
 
-### 1. Review Frequency & Trust
+### 1. New Listings Over Time
 ![Review Frequency and Trust](images/page1_new_listings.png)
 
-### 2. New Listings Over Time
+### 2. Market Share & Ratings – Overall
 ![New Listings](images/page2_market_share_ratings.png)
 
-### 3. Market Share & Ratings – Overall
+### 3. Market Share & Ratings – Detailed Review
 ![Market Share and Ratings](images/page3_detailed_ratings.png)
 
-### 4. Market Share & Ratings – Detailed Review
-![Detailed Ratings](images/page4_eview_frequency_trust.png)
+### 4. Review Frequency & Trust
+![Detailed Ratings](images/page4_review_frequency_trust.png)
 
 ---
 
@@ -147,8 +147,8 @@ The new-listings curve is divided into six phases: **Introduction → Growth →
 ## 👤 Author
 
 **Sucharita Samantaray**
-- LinkedIn: [your-linkedin-url](linkedin.com/in/sucharitasamantaray/)
-- GitHub: [your-username](https://github.com/nabiieee)
+- LinkedIn: [Sucharita Samantaray](linkedin.com/in/sucharitasamantaray/)
+- GitHub: [Sucharita](https://github.com/nabiieee)
 - Email: sucharita.madan13@gmail.com
 
 ---
